@@ -32,13 +32,13 @@ friend (posthumous homage).
 
 ## Other Links
 
-* [RapidLight](https://rapidlight.io)
+* [RapidLight](https://rapidlight.io)  
   Independent information technology research team.
 
 ## Acknowledgements
 
-* [Amanda Maura](https://www.facebook.com/sagitariamanda)
+* [Amanda Maura](https://www.facebook.com/sagitariamanda)  
   For helping with the building and testing of Lumen.
 
-* [Sarah Fernn](https://linkedin.com/in/sarahfernn)
+* [Sarah Fernn](https://linkedin.com/in/sarahfernn)  
   For colaborating with the revision of the published material.
